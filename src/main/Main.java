@@ -16,7 +16,6 @@ MessagePrint message = new MessagePrint();
         }
     }
 
-
     public static void main(String[] args) {
         Main nyr = new Main();
     }
